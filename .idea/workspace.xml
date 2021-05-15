@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f799a9c-e76d-4df9-8051-4c0a59cbfc0d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1p5rFsoPNRURUeXF3wDD0W9xdqg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="mvnw" type="BatchConfigurationType" factoryName="Batch" temporary="true">
+      <module name="mysportshub" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backend" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="mvnw.cmd" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Batch.mvnw" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f799a9c-e76d-4df9-8051-4c0a59cbfc0d" name="Default Changelist" comment="" />
+      <created>1614483691920</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614483691920</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="572" y="346" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1614483802896">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="572" y="346" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.900/-1920.-72.1920.1080@0.0.1440.900" timestamp="1614483802896" />
+    <state x="370" y="136" key="NewModule_or_Project.wizard" timestamp="1614484575399">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="370" y="136" key="NewModule_or_Project.wizard/0.23.1440.825/-1920.-49.1920.1057@0.23.1440.825" timestamp="1614484451778" />
+    <state x="370" y="136" key="NewModule_or_Project.wizard/0.23.1440.827/-1920.-49.1920.1057@0.23.1440.827" timestamp="1614484575399" />
+    <state x="413" y="283" key="com.intellij.ide.util.TipDialog" timestamp="1614484879489">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="413" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900/-1920.-72.1920.1080@0.0.1440.900" timestamp="1614483700845" />
+    <state x="413" y="283" key="com.intellij.ide.util.TipDialog/0.23.1440.829/-1920.-49.1920.1057@0.23.1440.829" timestamp="1614484879489" />
+    <state x="521" y="146" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1614483818201">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="521" y="146" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900/-1920.-72.1920.1080@0.0.1440.900" timestamp="1614483818201" />
+    <state x="149" y="58" key="new project wizard" timestamp="1614484423381">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="149" y="58" key="new project wizard/0.23.1440.825/-1920.-49.1920.1057@0.23.1440.825" timestamp="1614484423381" />
+  </component>
+</project>

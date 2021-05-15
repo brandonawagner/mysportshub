@@ -1,0 +1,97 @@
+.App {
+  text-align: center;
+}
+
+
+.App-container {
+  background-color: #d9d9d9;
+  min-height: 100vh;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+
+.Home {
+  text-align: center;
+  background-color: rgba(243, 235, 239, 0.089);
+}
+
+button{
+  margin-left:2%;
+}
+
+.login-block{
+  background-color: white;
+  text-align: center;
+  border-radius: 5%;
+  width: 30rem;
+  height: 18rem;
+  padding-left:.5rem;
+  border-color: #800000;
+  border-width: smoothing;
+  border-style:solid;
+}
+
+.login-header{
+  margin-bottom:1rem;
+  color:black;
+  text-align:center;
+  justify-content: center;
+  align-items:center;
+  text-decoration:underline;
+
+}
+
+.login-input{
+  margin-bottom:1rem;
+}
+
+
+.login-button {
+  width: 10rem;
+  height: 5rem;
+  font-size: x-large;
+  display:inline-block;
+  margin-left:2%;
+
+}
+
+.signup-form-items{
+  align-items:center;
+}
+
+
+fieldset.scroll { 
+  margin:4px, 4px; 
+  padding:4px; 
+  background-color: rgb(202, 212, 202); 
+  width: 500px; 
+  height: 500px; 
+  overflow-x: hidden; 
+  overflow-y: auto; 
+  text-align: left
+} 
+
+fieldset.hidden {
+  display: none;
+}
+
+.home_leagues {
+  width: 25%;
+  float:left
+
+}
+
+.home_teams {
+  width: 25%;
+  margin-left: 75%;
+  
+}
+
+.home_feed{
+  margin-left: 50%;
+}
+
